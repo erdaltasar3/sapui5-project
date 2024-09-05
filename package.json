@@ -1,7 +1,7 @@
 {
-    "name": "ui5.quickstart",
+    "name": "ui5.walkthrough",
     "version": "1.0.0",
-    "description": "The UI5 quickstart tutorial",
+    "description": "The UI5 walkthrough application",
     "scripts": {
         "start": "ui5 serve -o index.html"
     },
@@ -9,4 +9,3 @@
         "@ui5/cli": "^4.0.6"
     }
 }
-
